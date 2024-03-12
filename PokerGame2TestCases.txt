@@ -1,0 +1,6 @@
+Enter file name: poker.txt
+
+Hand 1: HIGH CARD, K High loses to HIGH CARD, A High
+Hand 2: FULL HOUSE, 4's full of 2's beats FLUSH, Spades, A High
+Hand 3: HIGH CARD, K High beats HIGH CARD, K High
+Hand 4: HIGH CARD, K High ties HIGH CARD, K High

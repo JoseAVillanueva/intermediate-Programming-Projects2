@@ -1,0 +1,15 @@
+Enter alphabet: qpotivcaefndxujwzlgrysbhkm
+Enter words: apple banana carrot PLEASESTOP
+
+Not sorted wordlist.
+
+Run Again (Y/N): e
+An invalid choice was entered, plese try again.
+y
+
+Enter alphabet: qpotivcaefndxujwzlgrysbhkm
+Enter words: pot potato potatoes PLEASESTOP
+
+Sorted wordlist.
+
+Run Again (Y/N): n

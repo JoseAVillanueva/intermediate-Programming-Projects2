@@ -1,0 +1,11 @@
+Enter file name: text.txt
+
+Consonants: 545
+Vowels: 327
+Ratio: 0.600
+
+Enter file name: text.txt
+
+Consonants: 0
+Vowels: 64
+Ratio: indef.
